@@ -5,3 +5,4 @@ river==0.22.0
 scikit-activeml==0.5.2
 ipykernel==6.29.5
 ipython==8.32.0
+dotenv==0.9.9
