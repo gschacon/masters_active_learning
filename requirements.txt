@@ -9,3 +9,8 @@ dotenv==0.9.9
 xgboost==2.1.4
 openml==0.15.1
 catboost==1.2.7
+
+capymoa==0.8.2
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
