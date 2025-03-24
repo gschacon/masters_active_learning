@@ -14,3 +14,14 @@ capymoa==0.8.2
 torch==2.6.0
 torchvision==0.21.0
 torchaudio==2.6.0
+
+# Nvim dependencies, needed to run with my NeoVim config: https://github.com/gschacon/nvim-config
+pynvim
+jupyter_client
+cairosvg
+plotly
+kaleido
+pnglatex
+pyperclip
+ipykernel
+jupytext
